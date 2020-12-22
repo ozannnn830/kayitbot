@@ -8,7 +8,7 @@
 
 - EMEGE SAYGI 
 
-- Discord Adresımız : [TIKLA](https://discord.gg/6TR8rr2)
+- Discord Adresımız : [TIKLA](https:/)
 
 - Hazırlayan :  ``OgünSert Kob's#0001``
 
